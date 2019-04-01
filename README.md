@@ -1,3 +1,3 @@
 # hello-world
 A short description
-I'm a bitcoin fan and want to write code for blockchain and cryptocurrency apps.
+I'm a bitcoin fan and am writing code for blockchain and cryptocurrency apps.
